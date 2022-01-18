@@ -19,41 +19,57 @@
 <img height="150" />
 
 <br/>
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Skills</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">Main Technologies</h2>
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="100" alt="Ruby"/></td>
-    <td><img src="https://img.icons8.com/color/96/000000/javascript--v2.png" width="100" alt="JavaScript"></td>
-    <td><img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript"></td>    
+    <td title="Ruby"><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="100" alt="Ruby"/></td>
+    <td title="JavaScript"><img src="https://img.icons8.com/color/96/000000/javascript--v2.png" width="100" alt="JavaScript"></td>
+    <td title="TypeScript"><img src="https://img.icons8.com/color/2x/typescript.png" width="100" alt="TypeScript"></td>
+    <td title="SQL"><img src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png" width="100" alt="SQL"></td>
+    <td title="CoffeeScript"><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/coffeescript.svg" width="100" alt="CoffeeScript"></td>
+    <td title="Bash"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" width="100" alt="Bash"></td>
   </tr>
   
   <tr>
-    <td><img src="https://img.icons8.com/officel/2x/react.png" width="100" alt="React.js"></td>
-    <td><img src="https://img.icons8.com/color/2x/angularjs.png" width="100" alt="Angular.js"></td>
-    <td><img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5"></td>
-    <td><img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3"></td>
-    <td><img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap"></td>
-    <td><img src="https://img.icons8.com/color/2x/sass.png" width="100" alt="Sass"></td>
+    <td title="HTML5"><img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5"></td>
+    <td title="CSS3"><img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3"></td>
+    <td title="Sass"><img src="https://img.icons8.com/color/2x/sass.png" width="100" alt="Sass"></td>
+    <td title="React.js"><img src="https://www.paceit.co.uk/wp-content/uploads/2021/07/reactjs-development-company.png" width="100" alt="React.js"></td>
+    <td title="Angular.js"><img src="https://img.icons8.com/color/2x/angularjs.png" width="100" alt="Angular.js"></td>
+    <td title="Vue"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="100" alt="Vue"></td>
+    <td title="Ember"><img src="https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg" width="100" alt="Ember"></td>
+    <td title="Bootstrap"><img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap"></td>
+    <td title="Material UI"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="100" alt="MaterialUI"></td>
+    <td title="StoryBook"><img src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg" width="100" alt="StroyBook"></td>
+  </tr>
+ 
+  <tr>
+    <td title="Ruby On Rails"><img src="https://cdn.coursehunter.net/category/ror.png" width="100" alt="Ruby On Rails"/></td>
+    <td title="Node.js"><img src="https://icon-library.com/images/js-icon/js-icon-13.jpg" width="100" alt="Node.js"></td>
+    <td title="NextJs"><img src="https://sebastian-gomez.com/nextjs.png" width="100" alt="NextJs"></td>
+    <td title="WordPress"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="100" alt="WordPress"></td>
   </tr>
   
   <tr>
-    <td><img src="https://img.icons8.com/color/144/000000/amazon-web-services.png" width="100" alt="AWS"/></td>
-    <td><img src="https://img.icons8.com/color/144/000000/heroku.png" width="100" alt="Heroku"/></td>
-    <td><img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/vercel-deploy.png?itok=AyGlptNc" width="100" alt="Vercel"/></td>
+    <td title="AWS"><img src="https://www.datacenterplanet.com/wp-content/uploads/2018/11/awslogo.png" width="100" alt="AWS"/></td>
+    <td title="Heroku"><img src="https://iconape.com/wp-content/files/xn/371066/svg/371066.svg" width="100" alt="Heroku"/></td>
+    <td title="Vercel"><img src="https://images.squarespace-cdn.com/content/v1/5cc22d6593a63233d214110c/1597710652025-QEY2UL92MLE1E2BX4WSJ/Vercel+%28Zeit%29.jpg" width="100" alt="Vercel"/></td>
+    <td title="DigitalOcean"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png" width="100" alt="DigitalOcean"/></td>
   </tr>
   
   <tr>
-    <td><img src="https://img.icons8.com/color/2x/nodejs.png" width="100" alt="Node.js"></td>
-    <td><img src="https://camo.githubusercontent.com/c457309037aabdce151cc0e197d6db98234a31636ef41f2cc1c339832fe20de3/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f6c6f676f732f6e6578746a732d6c6f676f2e706e67" width="100" alt="NextJs"></td>
-    <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png" width="100" alt="Rails"/></td>
-    <td><img src="https://img.icons8.com/stickers/100/000000/wordpress.png" alt="WordPress"></td>
-    <td><img src="https://img.icons8.com/nolan/2x/github.png" width="100" alt="Git"></td>
+    <td title="PostgreSQL"><img src="https://img.icons8.com/color/2x/postgreesql.png" width="100" alt="PostgreSQL"></td>
+    <td title="MySQL"><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100" alt="MySQL"></td>
+    <td title="Redis"><img src="https://webdock.io/application/files/6215/5864/9281/redis-square.png" width="100" alt="Redis"></td>
+    <td title="MongoDB"><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100" alt="MongoDB"></td>
+    <td title="AWS Redshift"><img src="https://www.clipartmax.com/png/full/200-2006597_data-warehouse-em-nuvem-com-o-amazon-redshift-amazon-redshift-logo.png" width="100" alt="AWS Redshift"></td>
+    <td title="ElasticSearch"><img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg" width="100" alt="ElasticSearch"></td>
   </tr>
   
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100" alt="MongoDB"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100" alt="MySQL"></td>
-    <td><img src="https://img.icons8.com/color/2x/postgreesql.png" width="100" alt="PostgreSQL"></td>
+    <td title="GitHub"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" alt="GitHub"></td>
+    <td title="GitLab"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="100" alt="GitLab"></td>
+    <td title="BitBucket"><img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="100" alt="BitBucket"></td>
   </tr>
 </table>
  
@@ -71,7 +87,7 @@
  
 <!-- Over the past 8 years, as a Frontend Developer, I have developed, launched and customized highly responsive, easy to use, user-friendly websites and applications using advanced technologies such as React, Angular and Vue. </br>-->
  
-### My highlight skills:
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My highlight skills</h2>
  
 ✔️ Very strong knowledge of modern Frontend frameworks such as React, Angular, Vue, etc. </br>
 ✔️ Developed front-end for a wide range of fully responsive webpages using Modern UI libraries</br>
