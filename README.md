@@ -1,4 +1,4 @@
-<h1 align="center">Technical Consultant | Product Engineer | Senior Software Engineer</h1>
+<h1 align="center">Technical Consultant | Senior Software Engineer</h1>
 
 <p>
   👋 Hi there! I am Andrew Zelenets, professional web engineer. 
