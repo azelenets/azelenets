@@ -1,5 +1,9 @@
 <h1 align="center">Technical Consultant | Senior Software Engineer</h1>
 
+<img align="right" src="https://img.shields.io/github/followers/azelenets?label=Follow&style=social" alt="followers counter"/>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=azelenets.azelenets" alt="visitors counter"/>
+<img height="15" />
+
 <p>
   👋 Hi there! I am Andrew Zelenets, professional web engineer. 
   <br/>Thank you for visiting my profile. Follow my <a href="https://twitter.com/AndrewZelenets">Twitter</a>, <a href="www.linkedin.com/in/andrewzelenets">LinkedIn</a>, and <a href="https://github.com/azelenets">GitHub</a> for updates!
@@ -8,9 +12,6 @@
 <p>
   🔔 Or you can even <a href="https://calendly.com/andrew-zelenets/30min">schedule time with me</a> to discuss collaboration opportunities.
 </p>
-
-<img align="right" src="https://img.shields.io/github/followers/azelenets?label=Follow&style=social" alt="followers counter"/>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=azelenets.azelenets" alt="visitors counter"/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azelenets&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
