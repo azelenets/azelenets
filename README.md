@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  🔔 Or you can even<a href="https://calendly.com/chat-with-azelenets/">schedule time with me</a> to discuss collaboration opportunities.
+  🔔 Or you can even <a href="https://calendly.com/andrew-zelenets/30min">schedule time with me</a> to discuss collaboration opportunities.
 </p>
 
 <img align="right" src="https://img.shields.io/github/followers/azelenets?label=Follow&style=social" alt="followers counter"/>
