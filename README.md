@@ -1,11 +1,8 @@
-<!-- <h1 align="center">Technical Consultant | Senior Software Engineer</h1> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=apple-system&color=%23C9D1D9&size=40&duration=5000&width=1200&center=true&lines=Technical+Consultant+%7C+Senior+Software+Engineer+)](https://git.io/typing-svg)
 
 <img align="right" src="https://img.shields.io/github/followers/azelenets?label=Follow&style=social" alt="followers counter"/>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=azelenets.azelenets" alt="visitors counter"/>
 <img height="15" />
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=apple-system&color=%23C9D1D9&size=40&duration=5000&width=1200&center=true&lines=Technical+Consultant+%7C+Senior+Software+Engineer+)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azelenets&row=1&column=6&theme=oldie&margin-w=15&margin-h=15"/>
