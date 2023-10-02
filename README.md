@@ -13,8 +13,8 @@
 <p>
   Professional Software Engineer with a strong desire to improve the world specifically in the software industry.<br/>
   Certified M.Sc. in "Computer systems control and automation" (National Mining University, Ukraine).<br/>
-  Expert with 11-years of experience in web applications development, 3rd party API integration, payment system integration, REST API development.<br/>
-  Love to bring my specific expertise to the technical solutions for your business. Share your problem I will take care of the solution.<br/>
+  Expert with 12-years of experience in web applications development, 3rd party API integration, payment system integration, and REST API development.<br/>
+  Love to bring my specific expertise to the technical solutions for your business.<br/>
   <br/>
   Interested in my services? You can <a href="https://calendly.com/andrew-zelenets/30min">schedule time with me</a> to discuss collaboration opportunities.<br/>
   Thank you for visiting my profile.<br/>
