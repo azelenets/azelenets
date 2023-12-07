@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=apple-system&color=%23C9D1D9&size=40&duration=5000&width=1200&center=true&lines=Technical+Consultant+%7C+Senior+Software+Engineer+)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=26&pause=500&color=1F2328&center=true&random=false&width=600&lines=Technical+Consultant;Senior+Full-stack+web+engineer;Senior+Front-End+developer;Senior+Back-End+developer" alt="Typing SVG" /></a>
+</div>
 
 <img align="right" src="https://img.shields.io/github/followers/azelenets?label=Follow&style=social" alt="followers counter"/>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=azelenets.azelenets" alt="visitors counter"/>
