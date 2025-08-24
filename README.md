@@ -1,16 +1,5 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&size=26&pause=500&color=1F2328&center=true&random=false&width=600&lines=Technical+Consultant;Software Solution Engineer" alt="Typing SVG" />
-  </a>
-</div>
-
-<img align="right" src="https://img.shields.io/github/followers/azelenets?label=Follow&style=social" alt="followers counter"/>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=azelenets.azelenets" alt="visitors counter"/>
-<img height="15" />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azelenets&row=1&column=6&theme=oldie&margin-w=15&margin-h=15"/>
-</p>
+<br />
 
 <h2>Hi GitHub community!</h2>
 
