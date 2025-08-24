@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=26&pause=500&color=1F2328&center=true&random=false&width=600&lines=Technical+Consultant;Senior+Full-stack+web+engineer;Senior+Front-End+developer;Senior+Back-End+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&size=26&pause=500&color=1F2328&center=true&random=false&width=600&lines=Technical+Consultant;Software Solution Engineer" alt="Typing SVG" />
+  </a>
 </div>
 
 <img align="right" src="https://img.shields.io/github/followers/azelenets?label=Follow&style=social" alt="followers counter"/>
@@ -10,21 +12,49 @@
   <img src="https://github-profile-trophy.vercel.app/?username=azelenets&row=1&column=6&theme=oldie&margin-w=15&margin-h=15"/>
 </p>
 
+<h2>Hi GitHub community!</h2>
 
-<h2>👋 About me</h2>
+<p>I am a seasoned Software Engineer, driven by a passion for advancing the software industry.</p>
+<p>Holding an M.Sc. in Computer Systems Control and Automation, I bring 13 years of proven expertise in System Design, Full Stack Engineering, third‑party API and payment system integrations.</p>
+<p>I am eager to leverage my specialized skills to deliver high‑quality technical solutions that propel your business forward.</p>
+
+<h2>Is Your Website Ready for the Next Level?</h2>
+
+<p>If you’re a business owner, startup founder, or marketing lead, you know that a website isn’t just a digital brochure - it’s the frontline of your brand, the first impression, and often the main conversion driver.</p>
+
+<h3>Common pain points I solve:</h3>
+
+<ul>
+  <li>Turning fragmented ideas into a cohesive, scalable architecture that grows with your business</li>
+  <li>Slow load times that lose leads before they even click</li>
+  <li>Clunky UX that frustrates users and drives them away</li>
+  <li>Broken mobile experience in an era where 55% of traffic comes from phones</li>
+  <li>Security gaps that jeopardize customer data and trust</li>
+  <li>Unreliable code that break the customer experience</li>
+  <li>Refactoring legacy codebases and implementing best‑practice patterns to reduce maintenance overhead</li>
+</ul>
+
+<h3>What I bring to the table:</h3>
+<ol>
+  <li>Custom, data‑driven designs that reflect your brand identity and resonate with your audience</li>
+  <li>Full‑stack expertise (React, Node.js, Next.js, Ruby On Rails, WordPress, etc.) tailored to your needs</li>
+  <li>Performance optimization using modern bundlers, lazy‑loading, and CDN strategies</li>
+  <li>Ongoing support & analytics so you always know how your site is performing</li>
+</ol>
+
+<h2>FREE 30‑minute audit</h2>
 <p>
-  Professional Software Engineer with a strong desire to improve the world specifically in the software industry.<br/>
-  Certified M.Sc. in "Computer systems control and automation" (National Mining University, Ukraine).<br/>
-  Expert with 12-years of experience in web applications development, 3rd party API integration, payment system integration, and REST API development.<br/>
-  Love to bring my specific expertise to the technical solutions for your business.<br/>
-  <br/>
-  Interested in my services? You can <a href="https://calendly.com/andrew-zelenets/30min">schedule time with me</a> to discuss collaboration opportunities.<br/>
-  Thank you for visiting my profile.<br/>
-  <br/>
-  Sincerely, Andrew Zelenets<br/>
-  Technical Consultant | Senior Software Engineer
+  Let’s identify the bottlenecks in your current site and outline a roadmap to higher conversions. No strings attached.<br/>
+  <a href="https://calendly.com/andrew-zelenets/30min">Book your audit now</a> or simply email me, and we’ll schedule a quick chat.<br/>
+  Let’s turn your digital storefront into a conversion machine!
 </p>
 
+<p>
+  <i>Sincerely, Andrii Zelenets</i><br />
+  <b>Professional Software Engineer</b>
+</p>
+
+<!--
 <h2>🧰 Main skills</h2>
 
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=CC342D&color=0d1117" alt="Ruby language"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007ACC&color=0d1117" alt="Typescript language"/> 
@@ -81,3 +111,4 @@
 <img src="https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=007AFF&color=0d1117" alt="Apple Pay integration"/> <img src="https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=2875E3&color=0d1117" alt="Google Pay integration"/>
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=00457C&color=0d1117" alt="PayPal integration"/>
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=626CD9&color=0d1117" alt="Stripe integration"/>
+-->
