@@ -5,7 +5,8 @@
 
 <h2>Bio</h2>
 
-<p>I'm Andrii Zelenets - a Full-Stack Software Engineer with 13 years of production experience across fintech, e-commerce, SaaS, logistics, EdTech, and defense tech. M.Eng. in Control & Automation (with Honours). AWS Solutions Architect Professional. OSCP-certified. I build things that ship, scale, and stay up.</p>
+<p>I'm Andrii Zelenets - a Full-Stack Software Engineer with 13 years of production experience across fintech, e-commerce, SaaS, logistics, EdTech, and defense tech. </p>
+<p>M.Eng. in Control & Automation (with Honours). AWS Solutions Architect Professional. OSCP-certified. I build things that ship, scale, and stay up.</p>
 <p>I am eager to leverage my specialized skills to deliver high‑quality technical solutions that propel your business forward.</p>
 
 <h2>What I actually do</h2>
