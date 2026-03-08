@@ -1,17 +1,17 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=azelenets.azelenets" alt="visitors counter"/>
 <br />
 
-<h2>Hi GitHub community!</h2>
+<h2>Bio</h2>
 
-<p>I am a seasoned Software Engineer, driven by a passion for advancing the software industry.</p>
-<p>Holding an M.Sc. in Computer Systems Control and Automation, I bring 13 years of proven expertise in System Design, Full Stack Engineering, third‑party API and payment system integrations.</p>
+<p>I'm Andrii — a Full-Stack Software Engineer with 13 years of production experience across fintech, e-commerce, SaaS, logistics, EdTech, and defense tech. M.Eng. in Control & Automation (with Honours). AWS Solutions Architect Professional. OSCP-certified. I build things that ship, scale, and stay up.</p>
 <p>I am eager to leverage my specialized skills to deliver high‑quality technical solutions that propel your business forward.</p>
 
-<h2>Is Your Website Ready for the Next Level?</h2>
+<h2>What I actually do</h2>
 
-<p>If you’re a business owner, startup founder, or marketing lead, you know that a website isn’t just a digital brochure - it’s the frontline of your brand, the first impression, and often the main conversion driver.</p>
+<p>I design and deliver backend-heavy, full-stack systems: high-throughput APIs, event-driven microservices, real-time IoT pipelines, payment and compliance integrations, and the React frontends that tie them together.</p>
+<p>Primary stack: Ruby on Rails · NestJS · React · TypeScript · PostgreSQL · Redis · AWS · Kubernetes</p>
 
-<h3>Common pain points I solve:</h3>
+<h2>Common pain points I solve</h2>
 
 <ul>
   <li>Turning fragmented ideas into a cohesive, scalable architecture that grows with your business</li>
@@ -23,24 +23,36 @@
   <li>Refactoring legacy codebases and implementing best‑practice patterns to reduce maintenance overhead</li>
 </ul>
 
-<h3>What I bring to the table:</h3>
+<h2>Selected outcomes</h2>
+
 <ol>
-  <li>Custom, data‑driven designs that reflect your brand identity and resonate with your audience</li>
-  <li>Full‑stack expertise (React, Node.js, Next.js, Ruby On Rails, WordPress, etc.) tailored to your needs</li>
-  <li>Performance optimization using modern bundlers, lazy‑loading, and CDN strategies</li>
-  <li>Ongoing support & analytics so you always know how your site is performing</li>
+  <li>+7% conversion rate and $5M in attributable revenue for an ed-tech platform (Lead Solution Engineer)</li>
+  <li>Payments live in 5 minutes — embedded fintech product with KYC, e-sign, EU VAT, and four transaction modes</li>
+  <li>SOX-ready real-time financial dashboard serving millions of requests without regressions</li>
+  <li>IoT command platform for electronic warfare units — dual WebSocket gateways, NATS JetStream, BullMQ, <2ms latency</li>
+  <li>Single codebase unifying SAML, SOAP, and ACH across a financial services integration layer</li>
+  <li>70% reduction in tech debt on a legacy Rails monolith through targeted refactoring and architecture consolidation</li>
+  <li>16-market content discovery engine, multi-tenant SaaS portals, biometric zero-trust auth, GPS-matched field auditing</li>
 </ol>
 
-<h2>FREE 30‑minute audit</h2>
+<p>37+ projects shipped across 13 years. Full mission log: <a href="https://azelenets.github.io">azelenets.github.io</a></p>
+
+<h2>Who I work well with</h2>
+
+<p>Startups that need a senior engineer who can own the architecture, not just execute tickets. Scaleups dealing with legacy debt, integration complexity, or performance ceilings. Teams that need a reliable senior contributor without the overhead of a full hire.</p>
+<p>I integrate fast — remote or on-site — and I align technical decisions with business goals before writing a line of code.</p>
+
+<h2>Open to</h2>
+
+<p>Freelance projects · Contract engagements · Full-time remote roles</p>
+
 <p>
-  Let’s identify the bottlenecks in your current site and outline a roadmap to higher conversions. No strings attached.<br/>
-  <a href="https://calendly.com/andrew-zelenets/30min">Book your audit now</a> or simply email me, and we’ll schedule a quick chat.<br/>
-  Let’s turn your digital storefront into a conversion machine!
+  Book a 30-minute call → <a href="https://calendar.app.google/yf8ZWByZWy1bFEY38">Google Meet</a>.
+  No pitch. Just a direct conversation about what you're building.
 </p>
 
 <p>
-  <i>Sincerely, Andrii Zelenets</i><br />
-  <b>Professional Software Engineer</b>
+  Andrii Zelenets Professional · Software Engineer
 </p>
 
 <!--
