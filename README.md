@@ -50,7 +50,7 @@
 <p>Freelance projects · Contract engagements · Full-time remote roles</p>
 
 <p>
-  Book a 30-minute call → <a href="https://calendar.app.google/yf8ZWByZWy1bFEY38">Google Meet</a>.
+  Book a 30-minute call → <a target="_blank" rel="noopener noreferrer" href="https://calendar.app.google/yf8ZWByZWy1bFEY38">Google Meet</a>.
   No pitch. Just a direct conversation about what you're building.
 </p>
 
