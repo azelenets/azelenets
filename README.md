@@ -1,3 +1,5 @@
+<img src="linkedin-banners-combined.avif" alt="LinkedIn Banner" width="100%"/>
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=azelenets.azelenets" alt="visitors counter"/>
 <br />
 
