@@ -5,7 +5,7 @@
 
 <h2>Bio</h2>
 
-<p>I'm Andrii Zelenets — a Full-Stack Software Engineer with 13 years of production experience across fintech, e-commerce, SaaS, logistics, EdTech, and defense tech. M.Eng. in Control & Automation (with Honours). AWS Solutions Architect Professional. OSCP-certified. I build things that ship, scale, and stay up.</p>
+<p>I'm Andrii Zelenets - a Full-Stack Software Engineer with 13 years of production experience across fintech, e-commerce, SaaS, logistics, EdTech, and defense tech. M.Eng. in Control & Automation (with Honours). AWS Solutions Architect Professional. OSCP-certified. I build things that ship, scale, and stay up.</p>
 <p>I am eager to leverage my specialized skills to deliver high‑quality technical solutions that propel your business forward.</p>
 
 <h2>What I actually do</h2>
@@ -30,9 +30,9 @@
 
 <ol>
   <li>+7% conversion rate and $5M in attributable revenue for an ed-tech platform (Lead Solution Engineer)</li>
-  <li>Payments live in 5 minutes — embedded fintech product with KYC, e-sign, EU VAT, and four transaction modes</li>
+  <li>Payments live in 5 minutes - embedded fintech product with KYC, e-sign, EU VAT, and four transaction modes</li>
   <li>SOX-ready real-time financial dashboard serving millions of requests without regressions</li>
-  <li>IoT command platform for electronic warfare units — dual WebSocket gateways, NATS JetStream, BullMQ, <2ms latency</li>
+  <li>IoT command platform for electronic warfare units - dual WebSocket gateways, NATS JetStream, BullMQ, <2ms latency</li>
   <li>Single codebase unifying SAML, SOAP, and ACH across a financial services integration layer</li>
   <li>70% reduction in tech debt on a legacy Rails monolith through targeted refactoring and architecture consolidation</li>
   <li>16-market content discovery engine, multi-tenant SaaS portals, biometric zero-trust auth, GPS-matched field auditing</li>
@@ -42,8 +42,12 @@
 
 <h2>Who I work well with</h2>
 
-<p>Startups that need a senior engineer who can own the architecture, not just execute tickets. Scaleups dealing with legacy debt, integration complexity, or performance ceilings. Teams that need a reliable senior contributor without the overhead of a full hire.</p>
-<p>I integrate fast — remote or on-site — and I align technical decisions with business goals before writing a line of code.</p>
+<ul>
+  <li>Startups that need a senior engineer who can own the architecture, not just execute tickets.</li>
+  <li>Scaleups dealing with legacy debt, integration complexity, or performance ceilings.</li>
+  <li>Teams that need a reliable senior contributor without the overhead of a full hire.</li>
+</ul>
+<p>I integrate fast - remote or on-site - and I align technical decisions with business goals before writing a line of code.</p>
 
 <h2>Open to</h2>
 
