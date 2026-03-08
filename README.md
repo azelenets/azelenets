@@ -9,7 +9,8 @@
 <h2>What I actually do</h2>
 
 <p>I design and deliver backend-heavy, full-stack systems: high-throughput APIs, event-driven microservices, real-time IoT pipelines, payment and compliance integrations, and the React frontends that tie them together.</p>
-<p>Primary stack: Ruby on Rails · NestJS · React · TypeScript · PostgreSQL · Redis · AWS · Kubernetes</p>
+<!-- Ruby on Rails · NestJS · React · TypeScript · PostgreSQL · Redis · AWS · Kubernetes  -->
+<p>Primary stack: <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=CC342D&color=0d1117&style=flat-square" alt="Ruby language"/> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=CC0000&color=0d1117&style=flat-square" alt="Ruby On Rails"/> <img src="https://img.shields.io/badge/NestJS-FF9900?logo=nestjs&logoColor=FF9900&color=0d1117&style=flat-square" alt="NestJS"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=007ACC&color=0d1117&style=flat-square" alt="Typescript language"/> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&color=0d1117&style=flat-square" alt="React"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=316192&color=0d1117&style=flat-square" alt="Postgresql"/> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=DD0031&color=0d1117&style=flat-square" alt="Redis"/> <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?logo=amazon&logoColor=FF9900&color=0d1117&style=flat-square" alt="AWS"/> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=007ACC&color=0d1117&style=flat-square"/></p>
 
 <h2>Common pain points I solve</h2>
 
@@ -52,19 +53,18 @@
 </p>
 
 <p>
-  Andrii Zelenets · ProfessionalSoftware Engineer
+  Andrii Zelenets · Professional Software Engineer
 </p>
 
 <!--
 <h2>🧰 Main skills</h2>
 
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=CC342D&color=0d1117" alt="Ruby language"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007ACC&color=0d1117" alt="Typescript language"/> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=0d1117" alt="Javascript language"/> 
 <img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=2F2625&color=0d1117" alt="Coffeescript language"/> 
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=4EAA25&color=0d1117" alt="GNU Bash script"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=1572B6&color=0d1117" alt="HTML5 language"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=E34F26&color=0d1117" alt="CSS3 language"/> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=CC6699&color=0d1117" alt="SASS language"/> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=0d1117" alt="React"/>
+
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=DD0031&color=0d1117" alt="Angular"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=0d1117" alt="Vuejs"/>
 <img src="https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=E04E39&color=0d1117" alt="Emberjs"/>
@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&color=0d1117" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=007FFF&color=0d1117" alt="MaterialUI"/>
 <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=FF4785&color=0d1117" alt="Storybook"/>
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000&color=0d1117" alt="Ruby On Rails"/>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&color=0d1117" alt="NodeJs"/>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=000000&color=0d1117" alt="NextJs"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=000000&color=0d1117" alt="ExpressJs"/>
