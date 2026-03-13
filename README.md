@@ -15,6 +15,20 @@
 <!-- Ruby on Rails · NestJS · React · TypeScript · PostgreSQL · Redis · AWS · Kubernetes  -->
 <p>Primary stack: <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=CC342D&color=0d1117&style=flat-square" alt="Ruby language"/> <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=CC0000&color=0d1117&style=flat-square" alt="Ruby On Rails"/> <img src="https://img.shields.io/badge/NestJS-FF9900?logo=nestjs&logoColor=FF9900&color=0d1117&style=flat-square" alt="NestJS"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=007ACC&color=0d1117&style=flat-square" alt="Typescript language"/> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&color=0d1117&style=flat-square" alt="React"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=316192&color=0d1117&style=flat-square" alt="Postgresql"/> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=DD0031&color=0d1117&style=flat-square" alt="Redis"/> <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?logo=amazon&logoColor=FF9900&color=0d1117&style=flat-square" alt="AWS"/> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=007ACC&color=0d1117&style=flat-square"/></p>
 
+<h2>Service Profile</h2>
+<ul>
+  <li>Platform Architecture & System Design</li>
+  <li>Full-Stack delivery & launch support</li>
+  <li>Codebase modernisation & mentoring</li>
+  <li>Security, compliance & SLA hardening</li>
+  <li>Performance tuning & cost efficiency</li>
+  <li>Event-driven systems & microservices</li>
+  <li>API design & third-party integrations</li>
+  <li>CI/CD pipelines & DevOps practices</li>
+  <li>Technical due diligence & hiring</li>
+  <li>Executive alignment & reporting</li>
+</ul>
+
 <h2>Common pain points I solve</h2>
 
 <ul>
